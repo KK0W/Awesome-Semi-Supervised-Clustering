@@ -13,16 +13,15 @@ Semi-supervised clustering has many applications in various fields such as image
 More details can be found in the survey paper.[Link](https://www.sciencedirect.com/science/article/abs/pii/S0020025523002840)
 
 
-## Survey Papers
+## Papers
 
-## Important Survey Papers
 
 
 |Year|Paper| Venue |Code|
 |:-----:|:------------------------:|:-----:|:---:|
-|2021|&nbsp;&nbsp;&nbsp;[Cross-Domain Adaptive Clustering for Semi-Supervised Domain Adaptation](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Cross-Domain_Adaptive_Clustering_for_Semi-Supervised_Domain_Adaptation_CVPR_2021_paper.html) &nbsp;&nbsp;&nbsp;|Jichang Li et al.| CVPR 2021 |[code](https://github.com/lijichang/CVPR2021-SSDA)|
+|2021|&nbsp;&nbsp;&nbsp;[Cross-Domain Adaptive Clustering for Semi-Supervised Domain Adaptation](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Cross-Domain_Adaptive_Clustering_for_Semi-Supervised_Domain_Adaptation_CVPR_2021_paper.html) &nbsp;&nbsp;&nbsp;|CVPR 2021 |[code](https://github.com/lijichang/CVPR2021-SSDA)|
+|2019|[Semi-supervised deep embedded clustering](https://paperswithcode.com/paper/semi-supervised-deep-embedded-clustering)|Neurocomputing 2019 |[code](https://github.com/yongzx/SDEC-Keras)|
 
-|2021|[A Survey on Active Deep Learning: From Model-driven to Data-driven](https://arxiv.org/abs/2101.09933)|Peng Liu et al.||
 |2020|[A Survey of Active Learning for Text Classification using Deep Neural Networks](https://arxiv.org/abs/2008.07267)|Christopher Schröder et al.||
 |2020|[A Survey of Deep Active Learning](https://arxiv.org/abs/2009.00236)|Pengzhen Ren et al.||
 
