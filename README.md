@@ -21,7 +21,7 @@ More details can be found in the survey paper.[Link](https://www.sciencedirect.c
 |:-----:|:------------------------:|:-----:|:---:|
 |2021|&nbsp;&nbsp;&nbsp;[Cross-Domain Adaptive Clustering for Semi-Supervised Domain Adaptation](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Cross-Domain_Adaptive_Clustering_for_Semi-Supervised_Domain_Adaptation_CVPR_2021_paper.html) &nbsp;&nbsp;&nbsp;|CVPR 2021 |[code](https://github.com/lijichang/CVPR2021-SSDA)|
 |2019|[Semi-supervised deep embedded clustering](https://paperswithcode.com/paper/semi-supervised-deep-embedded-clustering)|Neurocomputing 2019 |[code](https://github.com/yongzx/SDEC-Keras)|
-|2021|[SSSNET:Semi-Supervised Signed Network Clustering]([https://arxiv.org/abs/2008.07267](https://paperswithcode.com/paper/sssnet-semi-supervised-signed-network)|| [code]([https://github.com/yongzx/SDEC-Keras](https://github.com/sherylhyx/sssnet_signed_clustering))|
+|2021|[SSSNET:Semi-Supervised Signed Network Clustering](https://arxiv.org/abs/2008.07267](https://paperswithcode.com/paper/sssnet-semi-supervised-signed-network)|| [code]([https://github.com/yongzx/SDEC-Keras](https://github.com/sherylhyx/sssnet_signed_clustering))|
 
 |2020|[A Survey of Deep Active Learning](https://arxiv.org/abs/2009.00236)|Pengzhen Ren et al.||
 
