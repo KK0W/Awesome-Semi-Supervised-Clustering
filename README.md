@@ -18,7 +18,6 @@ More details can be found in the survey paper.[Link](https://www.sciencedirect.c
 |Year|Paper| Venue |Code|
 |:-----:|:------------------------:|:-----:|:---:|
 |2023|[Semi-supervised learning made simple with self-supervised clustering](https://openaccess.thecvf.com/content/CVPR2023/html/Fini_Semi-Supervised_Learning_Made_Simple_With_Self-Supervised_Clustering_CVPR_2023_paper.html)|CVPR|[code](https://github.com/pietroastolfi/suave-daino)|
-
 |2022|[When Does Contrastive Visual Representation Learning Work?](https://arxiv.org/abs/2105.05837)| CVPR||
 |2022|[Leverage Your Local and Global Representations: A New Self-Supervised Learning Strategy](https://arxiv.org/abs/2203.17205)|CVPR | |
 |2022|[SimMatch: Semi-supervised Learning with Similarity Matching](https://arxiv.org/abs/2203.06915)| CVPR||
