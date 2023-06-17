@@ -17,12 +17,27 @@ More details can be found in the survey paper.[Link](https://www.sciencedirect.c
 
 |Year|Paper| Venue |Code|
 |:-----:|:------------------------:|:-----:|:---:|
-|2021|&nbsp;&nbsp;&nbsp;[Cross-Domain Adaptive Clustering for Semi-Supervised Domain Adaptation](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Cross-Domain_Adaptive_Clustering_for_Semi-Supervised_Domain_Adaptation_CVPR_2021_paper.html) &nbsp;&nbsp;&nbsp;|CVPR 2021 |[code](https://github.com/lijichang/CVPR2021-SSDA)|
-|2019|[Semi-supervised deep embedded clustering](https://paperswithcode.com/paper/semi-supervised-deep-embedded-clustering)|Neurocomputing 2019 |[code](https://github.com/yongzx/SDEC-Keras)|
+|2021|&nbsp;&nbsp;&nbsp;[Cross-Domain Adaptive Clustering for Semi-Supervised Domain Adaptation](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Cross-Domain_Adaptive_Clustering_for_Semi-Supervised_Domain_Adaptation_CVPR_2021_paper.html) &nbsp;&nbsp;&nbsp;|CVPR|[code](https://github.com/lijichang/CVPR2021-SSDA)|
+|2019|[Semi-supervised deep embedded clustering](https://paperswithcode.com/paper/semi-supervised-deep-embedded-clustering)|Neurocomputing |[code](https://github.com/yongzx/SDEC-Keras)|
 |2021|[SSSNET:Semi-Supervised Signed Network Clustering](https://paperswithcode.com/paper/sssnet-semi-supervised-signed-network)|| [code](https://github.com/sherylhyx/sssnet_signed_clustering)|
-|2023|[Semi-supervised learning made simple with self-supervised clustering](https://openaccess.thecvf.com/content/CVPR2023/html/Fini_Semi-Supervised_Learning_Made_Simple_With_Self-Supervised_Clustering_CVPR_2023_paper.html)|CVPR2023|[code](https://github.com/pietroastolfi/suave-daino)|
+|2023|[Semi-supervised learning made simple with self-supervised clustering](https://openaccess.thecvf.com/content/CVPR2023/html/Fini_Semi-Supervised_Learning_Made_Simple_With_Self-Supervised_Clustering_CVPR_2023_paper.html)|CVPR|[code](https://github.com/pietroastolfi/suave-daino)|
+|2020|[Poisson Learning: Graph Based Semi-Supervised Learning At Very Low Label Rates](https://arxiv.org/abs/2006.11184v2)| |[code](https://github.com/jwcalder/GraphLearning)|
+|2021|[Semi-Supervised Clustering with Inaccurate Pairwise Annotations](https://arxiv.org/abs/2104.02146v1)| |[code](https://github.com/danielgribel/SSC-IPA)|
+|2020|[Semi-supervised Deep Embedded Clustering with Anomaly Detection for Semantic Frame Induction](https://aclanthology.org/2020.lrec-1.431/)| LREC|[code](https://github.com/yongzx/SDEC-AD)|
+|2020|[Strongly local p-norm-cut algorithms for semi-supervised learning and local graph clustering](https://proceedings.neurips.cc//paper/2020/hash/3501672ebc68a5524629080e3ef60aef-Abstract.html)| NeurIPS |[code](https://github.com/MengLiuPurdue/SLQ)|
+
+
 |2020|[Poisson Learning: Graph Based Semi-Supervised Learning At Very Low Label Rates](https://arxiv.org/abs/2006.11184v2)| |[code](https://github.com/jwcalder/GraphLearning)|
 
+|2020|[Poisson Learning: Graph Based Semi-Supervised Learning At Very Low Label Rates](https://arxiv.org/abs/2006.11184v2)| |[code](https://github.com/jwcalder/GraphLearning)|
+
+|2020|[Poisson Learning: Graph Based Semi-Supervised Learning At Very Low Label Rates](https://arxiv.org/abs/2006.11184v2)| |[code](https://github.com/jwcalder/GraphLearning)|
+
+|2020|[Poisson Learning: Graph Based Semi-Supervised Learning At Very Low Label Rates](https://arxiv.org/abs/2006.11184v2)| |[code](https://github.com/jwcalder/GraphLearning)|
+
+|2020|[Poisson Learning: Graph Based Semi-Supervised Learning At Very Low Label Rates](https://arxiv.org/abs/2006.11184v2)| |[code](https://github.com/jwcalder/GraphLearning)|
+
+|2020|[Poisson Learning: Graph Based Semi-Supervised Learning At Very Low Label Rates](https://arxiv.org/abs/2006.11184v2)| |[code](https://github.com/jwcalder/GraphLearning)|
 ## Reference
 
 [1] Ren, Pengzhen, et al. "A survey of deep active learning." _ACM computing surveys_ (CSUR) 54.9 (2021): 1-40.  
