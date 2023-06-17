@@ -30,7 +30,9 @@ More details can be found in the survey paper.[Link](https://www.sciencedirect.c
 |2021|&nbsp;&nbsp;&nbsp;[Cross-Domain Adaptive Clustering for Semi-Supervised Domain Adaptation](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Cross-Domain_Adaptive_Clustering_for_Semi-Supervised_Domain_Adaptation_CVPR_2021_paper.html) &nbsp;&nbsp;&nbsp;|CVPR|[code](https://github.com/lijichang/CVPR2021-SSDA)|
 |2021|[SSSNET:Semi-Supervised Signed Network Clustering](https://paperswithcode.com/paper/sssnet-semi-supervised-signed-network)|| [code](https://github.com/sherylhyx/sssnet_signed_clustering)|
 |2020|[Poisson Learning: Graph Based Semi-Supervised Learning At Very Low Label Rates](https://arxiv.org/abs/2006.11184v2)| |[code](https://github.com/jwcalder/GraphLearning)|
-|2020|[Semi-Supervised Clustering With Constraints of Different Types From Multiple Information Sources](https://ieeexplore.ieee.org/document/9031553)| IEEE||
+|2020|[Semi-Supervised Clustering With Constraints of Different Types From Multiple Information Sources](https://ieeexplore.ieee.org/document/9031553)| IEEE Transactions on Knowledge and Data Engineering||
+|2020|[Semi-Supervised Clustering with Neural Networks](https://ieeexplore.ieee.org/abstract/document/9232516)|BigMM||
+|2020|[A classification-based approach to semi-supervised clustering with pairwise constraints](https://www.sciencedirect.com/science/article/abs/pii/S0893608020301374)| Neural Networks||
 |2020|[Semi-supervised Deep Embedded Clustering with Anomaly Detection for Semantic Frame Induction](https://aclanthology.org/2020.lrec-1.431/)| LREC|[code](https://github.com/yongzx/SDEC-AD)|
 |2020|[Semi-Supervised Self-Training Feature Weighted Clustering Decision Tree and Random Forest](https://ieeexplore.ieee.org/document/9139499)| IEEE Access ||
 |2020|[Strongly local p-norm-cut algorithms for semi-supervised learning and local graph clustering](https://proceedings.neurips.cc//paper/2020/hash/3501672ebc68a5524629080e3ef60aef-Abstract.html)| NeurIPS |[code](https://github.com/MengLiuPurdue/SLQ)|
