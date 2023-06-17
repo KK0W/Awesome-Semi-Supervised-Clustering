@@ -25,6 +25,7 @@ More details can be found in the survey paper.[Link](https://www.sciencedirect.c
 |2021|[Semi-Supervised Clustering with Inaccurate Pairwise Annotations](https://arxiv.org/abs/2104.02146v1)| |[code](https://github.com/danielgribel/SSC-IPA)|
 |2020|[Semi-supervised Deep Embedded Clustering with Anomaly Detection for Semantic Frame Induction](https://aclanthology.org/2020.lrec-1.431/)| LREC|[code](https://github.com/yongzx/SDEC-AD)|
 |2020|[Strongly local p-norm-cut algorithms for semi-supervised learning and local graph clustering](https://proceedings.neurips.cc//paper/2020/hash/3501672ebc68a5524629080e3ef60aef-Abstract.html)| NeurIPS |[code](https://github.com/MengLiuPurdue/SLQ)|
+|2020|[A semi-supervised sparse K-Means algorithm](https://arxiv.org/abs/2003.06973)|PRL |[code](https://github.com/avouros/Code-PCSKM)|
 
 
 |2020|[Poisson Learning: Graph Based Semi-Supervised Learning At Very Low Label Rates](https://arxiv.org/abs/2006.11184v2)| |[code](https://github.com/jwcalder/GraphLearning)|
@@ -37,7 +38,25 @@ More details can be found in the survey paper.[Link](https://www.sciencedirect.c
 
 |2020|[Poisson Learning: Graph Based Semi-Supervised Learning At Very Low Label Rates](https://arxiv.org/abs/2006.11184v2)| |[code](https://github.com/jwcalder/GraphLearning)|
 
-|2020|[Poisson Learning: Graph Based Semi-Supervised Learning At Very Low Label Rates](https://arxiv.org/abs/2006.11184v2)| |[code](https://github.com/jwcalder/GraphLearning)|
+
+## Datasets
+Datasets used in papers above, links lead to the homepage of each dataset.
+
+| Dataset           | Link                                                                |
+|-------------------|---------------------------------------------------------------------|
+| vgmidi            | [Link](https://github.com/lucasnfe/vgmidi)                          |
+| cifar-10          | [Link](https://www.cs.toronto.edu/~kriz/cifar.html)                 |
+| cifar-100         | [Link](https://www.cs.toronto.edu/~kriz/cifar.html)                 |
+| oxford-102-flower | [Link](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/)          |
+| caltech-101       | [Link](http://www.vision.caltech.edu/Image_Datasets/Caltech101/)    |
+| dtd               | [Link](https://www.robots.ox.ac.uk/~vgg/data/dtd/)                  |
+| food-101          | [Link](https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/) |
+| imagenet          | [Link](https://image-net.org/index.php)                             |
+| banking77         | [Link](https://arxiv.org/abs/2003.04807)                            |
+| clinc150          | [Link](https://github.com/clinc/oos-eval)                           |
+| zinc              | [Link](https://zinc15.docking.org/)                                 |
+
+
 ## Reference
 
 [1] Ren, Pengzhen, et al. "A survey of deep active learning." _ACM computing surveys_ (CSUR) 54.9 (2021): 1-40.  
