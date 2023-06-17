@@ -18,16 +18,20 @@ More details can be found in the survey paper.[Link](https://www.sciencedirect.c
 |Year|Paper| Venue |Code|
 |:-----:|:------------------------:|:-----:|:---:|
 |2023|[Semi-supervised learning made simple with self-supervised clustering](https://openaccess.thecvf.com/content/CVPR2023/html/Fini_Semi-Supervised_Learning_Made_Simple_With_Self-Supervised_Clustering_CVPR_2023_paper.html)|CVPR|[code](https://github.com/pietroastolfi/suave-daino)|
+|2023|[Semi-Supervised Clustering Under a “Compact-Cluster” Assumption](https://ieeexplore.ieee.org/document/9693296)|IEEE||
 |2022|[When Does Contrastive Visual Representation Learning Work?](https://arxiv.org/abs/2105.05837)| CVPR||
 |2022|[Leverage Your Local and Global Representations: A New Self-Supervised Learning Strategy](https://arxiv.org/abs/2203.17205)|CVPR | |
 |2022|[SimMatch: Semi-supervised Learning with Similarity Matching](https://arxiv.org/abs/2203.06915)| CVPR||
 |2022|[Class-Aware Contrastive Semi-Supervised Learning](https://arxiv.org/abs/2203.02261)|  CVPR||
+|2021|[A survey on Optimisation-based Semi-supervised Clustering Methods](https://ieeexplore.ieee.org/document/9667756)| IEEE ||
+|2021|[Salp Swarm Algorithm based Semi-supervised Metric Fuzzy Clustering](https://ieeexplore.ieee.org/document/9512989)| IEEE ||
 |2021|[Semi-Supervised Clustering with Inaccurate Pairwise Annotations](https://arxiv.org/abs/2104.02146v1)| |[code](https://github.com/danielgribel/SSC-IPA)|
 |2021|&nbsp;&nbsp;&nbsp;[Cross-Domain Adaptive Clustering for Semi-Supervised Domain Adaptation](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Cross-Domain_Adaptive_Clustering_for_Semi-Supervised_Domain_Adaptation_CVPR_2021_paper.html) &nbsp;&nbsp;&nbsp;|CVPR|[code](https://github.com/lijichang/CVPR2021-SSDA)|
 |2021|[SSSNET:Semi-Supervised Signed Network Clustering](https://paperswithcode.com/paper/sssnet-semi-supervised-signed-network)|| [code](https://github.com/sherylhyx/sssnet_signed_clustering)|
 |2020|[Poisson Learning: Graph Based Semi-Supervised Learning At Very Low Label Rates](https://arxiv.org/abs/2006.11184v2)| |[code](https://github.com/jwcalder/GraphLearning)|
 |2020|[Semi-Supervised Clustering With Constraints of Different Types From Multiple Information Sources](https://ieeexplore.ieee.org/document/9031553)| IEEE||
 |2020|[Semi-supervised Deep Embedded Clustering with Anomaly Detection for Semantic Frame Induction](https://aclanthology.org/2020.lrec-1.431/)| LREC|[code](https://github.com/yongzx/SDEC-AD)|
+|2020|[Semi-Supervised Self-Training Feature Weighted Clustering Decision Tree and Random Forest](https://ieeexplore.ieee.org/document/9139499)| IEEE||
 |2020|[Strongly local p-norm-cut algorithms for semi-supervised learning and local graph clustering](https://proceedings.neurips.cc//paper/2020/hash/3501672ebc68a5524629080e3ef60aef-Abstract.html)| NeurIPS |[code](https://github.com/MengLiuPurdue/SLQ)|
 |2020|[A semi-supervised sparse K-Means algorithm](https://arxiv.org/abs/2003.06973)|PRL |[code](https://github.com/avouros/Code-PCSKM)|
 |2020|[Poisson Learning: Graph Based Semi-Supervised Learning At Very Low Label Rates](https://arxiv.org/abs/2006.11184v2)| |[code](https://github.com/jwcalder/GraphLearning)|
