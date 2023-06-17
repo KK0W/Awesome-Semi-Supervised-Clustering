@@ -17,18 +17,11 @@ More details can be found in the survey paper.[Link](https://www.sciencedirect.c
 
 ## Important Survey Papers
 
-| Year | Paper | Venue | Code |
-|------|-------|-------|-------|------|
-| 2021 | [Semi-Supervised Clustering: A Study on User-Guided and Active Approaches] (https://ieeexplore.ieee.org/abstract/document/9261803) | IEEE Transactions on Neural Networks and Learning Systems  | [Link](https://github.com/userguidedsemiSEMI) |
-| 2020 | MixMatch: A Holistic Approach to Semi-Supervised Learning | NeurIPS 2019 | [Link](https://proceedings.neurips.cc/paper/2019/hash/1b5e3ef18d27ab1e91c3c2b99a5477f8-Abstract.html) | [Link](https://github.com/google-research/mixmatch)|
-| 2019 | Deep Co-Clustering for Unsupervised and Semi-Supervised Learning | ICDM 2018 | [Link](https://ieeexplore.ieee.org/abstract/document/8595135) | - |
-| 2018 | A Review of Semi-Supervised Clustering | IEEE Transactions on Knowledge and Data Engineering | [Link](https://ieeexplore.ieee.org/abstract/document/8428408) | - |
-| 2017 | Semi-Supervised Clustering with Intercluster Discrimination | IEEE Transactions on Pattern Analysis and Machine Intelligence | [Link](https://ieeexplore.ieee.org/abstract/document/7962925) | - | 
-
 
 |Year|Paper| Venue |Code|
 |:-----:|:------------------------:|:-----:|:---:|
-|2021|&nbsp;&nbsp;&nbsp;[Cross-Domain Adaptive Clustering for Semi-Supervised Domain Adaptation](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Cross-Domain_Adaptive_Clustering_for_Semi-Supervised_Domain_Adaptation_CVPR_2021_paper.html) &nbsp;&nbsp;&nbsp;|Jichang Li et al.|[code](https://github.com/lijichang/CVPR2021-SSDA)|
+|2021|&nbsp;&nbsp;&nbsp;[Cross-Domain Adaptive Clustering for Semi-Supervised Domain Adaptation](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Cross-Domain_Adaptive_Clustering_for_Semi-Supervised_Domain_Adaptation_CVPR_2021_paper.html) &nbsp;&nbsp;&nbsp;|Jichang Li et al.| CVPR 2021 |[code](https://github.com/lijichang/CVPR2021-SSDA)|
+
 |2021|[A Survey on Active Deep Learning: From Model-driven to Data-driven](https://arxiv.org/abs/2101.09933)|Peng Liu et al.||
 |2020|[A Survey of Active Learning for Text Classification using Deep Neural Networks](https://arxiv.org/abs/2008.07267)|Christopher Schröder et al.||
 |2020|[A Survey of Deep Active Learning](https://arxiv.org/abs/2009.00236)|Pengzhen Ren et al.||
