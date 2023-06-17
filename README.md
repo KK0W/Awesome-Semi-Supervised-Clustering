@@ -15,7 +15,7 @@ Semi-supervised clustering has many applications in various fields such as image
 
 |Year|Paper|Author|Code|
 |:-----:|:------------------------:|:-----:|:---:|
-|2021|&nbsp;&nbsp;&nbsp;[Cross-Domain Adaptive Clustering for Semi-Supervised Domain Adaptation](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Cross-Domain_Adaptive_Clustering_for_Semi-Supervised_Domain_Adaptation_CVPR_2021_paper.html) &nbsp;&nbsp;&nbsp;|Xueying Zhan et al.|[code](https://github.com/lijichang/CVPR2021-SSDA)|
+|2021|&nbsp;&nbsp;&nbsp;[Cross-Domain Adaptive Clustering for Semi-Supervised Domain Adaptation](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Cross-Domain_Adaptive_Clustering_for_Semi-Supervised_Domain_Adaptation_CVPR_2021_paper.html) &nbsp;&nbsp;&nbsp;|Jichang Li et al.|[code](https://github.com/lijichang/CVPR2021-SSDA)|
 |2021|[A Survey on Active Deep Learning: From Model-driven to Data-driven](https://arxiv.org/abs/2101.09933)|Peng Liu et al.||
 |2020|[A Survey of Active Learning for Text Classification using Deep Neural Networks](https://arxiv.org/abs/2008.07267)|Christopher Schröder et al.||
 |2020|[A Survey of Deep Active Learning](https://arxiv.org/abs/2009.00236)|Pengzhen Ren et al.||
